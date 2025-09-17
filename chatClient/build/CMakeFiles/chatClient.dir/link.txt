@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -rdynamic CMakeFiles/chatClient.dir/src/main.cpp.o CMakeFiles/chatClient.dir/src/chatClient.cpp.o CMakeFiles/chatClient.dir/home/jy/coding/chatRoom/MSG_CLASS/MSG.cpp.o -o chatClient  -lpthread 

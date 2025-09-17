@@ -1,0 +1,3 @@
+/home/jy/coding/chatRoom/chatServer/build/CMakeFiles/rebuild_cache.dir
+/home/jy/coding/chatRoom/chatServer/build/CMakeFiles/chatServer.dir
+/home/jy/coding/chatRoom/chatServer/build/CMakeFiles/edit_cache.dir
